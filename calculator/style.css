@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.button{
+    padding: 15px;
+    margin:0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    color: rgb(235, 249, 249);
+    background-color: rgb(97, 103, 101);
+    
+}
+.row{
+    margin: 5px 0;
+    
+}
+.row input{
+    margin: 0;
+    padding: 5px 6px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
